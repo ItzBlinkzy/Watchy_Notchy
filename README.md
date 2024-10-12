@@ -3,7 +3,7 @@
 ![image](https://github.com/user-attachments/assets/966cb4a7-e19a-4b62-84f8-acbbdde1f90f)
 
 - White Notch - Hour Hand
-- Black Notch - Minute Han
+- Black Notch - Minute Hand
 
 ### This is a watch face for the open source E-Ink display smartwatch [Watchy](https://watchy.sqfmi.com/).
 
